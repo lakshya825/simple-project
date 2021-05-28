@@ -1,0 +1,1015 @@
+﻿{
+  "code": 200,
+  "data": [
+    {
+      "location": "Corsica",
+      "country_code": "fr",
+      "latitude": 42.0396042,
+      "longitude": 9.012892599999999,
+      "confirmed": 934,
+      "dead": 156,
+      "recovered": 669,
+      "updated": "2021-03-18 15:52:34.184422+00:00"
+    },
+    {
+      "location": "Nouvelle-Aquitaine",
+      "country_code": "fr",
+      "latitude": 45.7087182,
+      "longitude": 0.626891,
+      "confirmed": 1,
+      "dead": 3016,
+      "recovered": 12231,
+      "updated": "2021-03-18 15:52:34.181768+00:00"
+    },
+    {
+      "location": "Sachsen-Anhalt*",
+      "country_code": "de",
+      "latitude": 51.9502649,
+      "longitude": 11.6922734,
+      "confirmed": 51620,
+      "dead": 1712,
+      "recovered": null,
+      "updated": "2021-02-01 13:23:34.115926+00:00"
+    },
+    {
+      "location": "Bremen*",
+      "country_code": "de",
+      "latitude": 53.07929619999999,
+      "longitude": 8.8016936,
+      "confirmed": 25243,
+      "dead": 454,
+      "recovered": null,
+      "updated": "2021-05-03 06:22:14.346603+00:00"
+    },
+    {
+      "location": "Alabama",
+      "country_code": "us",
+      "latitude": 32.3182314,
+      "longitude": -86.902298,
+      "confirmed": 51,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Arizona",
+      "country_code": "us",
+      "latitude": 34.0489281,
+      "longitude": -111.0937311,
+      "confirmed": 89,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Arkansas",
+      "country_code": "us",
+      "latitude": 35.20105,
+      "longitude": -91.8318334,
+      "confirmed": 340698,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Colorado",
+      "country_code": "us",
+      "latitude": 39.5500507,
+      "longitude": -105.7820674,
+      "confirmed": 52,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Connecticut",
+      "country_code": "us",
+      "latitude": 41.6032207,
+      "longitude": -73.087749,
+      "confirmed": 346980,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Georgia",
+      "country_code": "us",
+      "latitude": 32.1656221,
+      "longitude": -82.9000751,
+      "confirmed": 894445,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Bretagne",
+      "country_code": "fr",
+      "latitude": 48.2020471,
+      "longitude": -2.9326435,
+      "confirmed": 7160,
+      "dead": 1244,
+      "recovered": 5279,
+      "updated": "2021-03-18 15:52:34.182409+00:00"
+    },
+    {
+      "location": "Indiana",
+      "country_code": "us",
+      "latitude": 40.2671941,
+      "longitude": -86.1349019,
+      "confirmed": 745303,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Île-de-France",
+      "country_code": "fr",
+      "latitude": 48.8499198,
+      "longitude": 2.6370411,
+      "confirmed": 92709,
+      "dead": 15864,
+      "recovered": 70905,
+      "updated": "2021-03-18 15:52:34.197286+00:00"
+    },
+    {
+      "location": "Saarland*",
+      "country_code": "de",
+      "latitude": 49.3964234,
+      "longitude": 7.0229607,
+      "confirmed": 28056,
+      "dead": 848,
+      "recovered": null,
+      "updated": "2021-02-23 07:51:06.650066+00:00"
+    },
+    {
+      "location": "Kansas",
+      "country_code": "us",
+      "latitude": 39.011902,
+      "longitude": -98.4842465,
+      "confirmed": 313720,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Kentucky",
+      "country_code": "us",
+      "latitude": 37.8393332,
+      "longitude": -84.2700179,
+      "confirmed": 457062,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Brandenburg*",
+      "country_code": "de",
+      "latitude": 52.4125287,
+      "longitude": 12.5316444,
+      "confirmed": 105072,
+      "dead": 3633,
+      "recovered": null,
+      "updated": "2021-05-12 06:05:20.235001+00:00"
+    },
+    {
+      "location": "Bayern*",
+      "country_code": "de",
+      "latitude": 48.7904472,
+      "longitude": 11.4978895,
+      "confirmed": 377918,
+      "dead": 8929,
+      "recovered": null,
+      "updated": "2021-01-20 07:36:58.074960+00:00"
+    },
+    {
+      "location": "Hamburg*",
+      "country_code": "de",
+      "latitude": 53.5510846,
+      "longitude": 9.9936819,
+      "confirmed": 53543,
+      "dead": 1312,
+      "recovered": null,
+      "updated": "2021-03-11 07:07:54.900003+00:00"
+    },
+    {
+      "location": "Rheinland-Pfalz*",
+      "country_code": "de",
+      "latitude": 50.118346,
+      "longitude": 7.3089527,
+      "confirmed": 91711,
+      "dead": 2450,
+      "recovered": null,
+      "updated": "2021-01-31 08:37:12.267362+00:00"
+    },
+    {
+      "location": "Centre-Val de Loire",
+      "country_code": "fr",
+      "latitude": 47.7515686,
+      "longitude": 1.6750631,
+      "confirmed": 11550,
+      "dead": 2129,
+      "recovered": 8434,
+      "updated": "2021-03-18 15:52:34.182650+00:00"
+    },
+    {
+      "location": "Occitanie",
+      "country_code": "fr",
+      "latitude": 43.8927232,
+      "longitude": 3.2827625,
+      "confirmed": 20136,
+      "dead": 3426,
+      "recovered": 15372,
+      "updated": "2021-03-18 15:52:34.181515+00:00"
+    },
+    {
+      "location": "Grand Est",
+      "country_code": "fr",
+      "latitude": 48.699803,
+      "longitude": 6.1878074,
+      "confirmed": 40467,
+      "dead": 8472,
+      "recovered": 29646,
+      "updated": "2021-03-18 15:52:34.188968+00:00"
+    },
+    {
+      "location": "New Brunswick",
+      "country_code": "ca",
+      "latitude": 46.5653163,
+      "longitude": -66.46191639999999,
+      "confirmed": 693,
+      "dead": 9,
+      "recovered": null,
+      "updated": "2021-01-06 00:00:00+00:00"
+    },
+    {
+      "location": "Oklahoma",
+      "country_code": "us",
+      "latitude": 35.0077519,
+      "longitude": -97.092877,
+      "confirmed": 452288,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Nevada",
+      "country_code": "us",
+      "latitude": 38.8026097,
+      "longitude": -116.419389,
+      "confirmed": 323249,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Provence-Alpes-Côte d'Azur",
+      "country_code": "fr",
+      "latitude": 43.9351691,
+      "longitude": 6.0679194,
+      "confirmed": 39018,
+      "dead": 6291,
+      "recovered": 29635,
+      "updated": "2021-03-18 15:52:34.190353+00:00"
+    },
+    {
+      "location": "New Hampshire",
+      "country_code": "us",
+      "latitude": 43.1938516,
+      "longitude": -71.5723953,
+      "confirmed": 98965,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "New Jersey",
+      "country_code": "us",
+      "latitude": 40.0583238,
+      "longitude": -74.4056612,
+      "confirmed": 1014974,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "New Mexico",
+      "country_code": "us",
+      "latitude": 34.5199402,
+      "longitude": -105.8700901,
+      "confirmed": 202570,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Ontario",
+      "country_code": "ca",
+      "latitude": 51.253775,
+      "longitude": -85.323214,
+      "confirmed": 200626,
+      "dead": 4767,
+      "recovered": null,
+      "updated": "2021-01-06 00:00:00+00:00"
+    },
+    {
+      "location": "Oregon",
+      "country_code": "us",
+      "latitude": 43.8041334,
+      "longitude": -120.5542012,
+      "confirmed": 199784,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Pennsylvania",
+      "country_code": "us",
+      "latitude": 41.2033216,
+      "longitude": -77.1945247,
+      "confirmed": 1198595,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Hauts-de-France",
+      "country_code": "fr",
+      "latitude": 50.48011529999999,
+      "longitude": 2.7937265,
+      "confirmed": 35988,
+      "dead": 6795,
+      "recovered": 26126,
+      "updated": "2021-03-18 15:52:34.190899+00:00"
+    },
+    {
+      "location": "New York",
+      "country_code": "us",
+      "latitude": 40.7127753,
+      "longitude": -74.0059728,
+      "confirmed": 2081049,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "North Carolina",
+      "country_code": "us",
+      "latitude": 35.7595731,
+      "longitude": -79.01929969999999,
+      "confirmed": 998711,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Nova Scotia",
+      "country_code": "ca",
+      "latitude": 44.68198659999999,
+      "longitude": -63.744311,
+      "confirmed": 1520,
+      "dead": 65,
+      "recovered": null,
+      "updated": "2021-01-06 00:00:00+00:00"
+    },
+    {
+      "location": "Louisiana",
+      "country_code": "us",
+      "latitude": 30.9842977,
+      "longitude": -91.96233269999999,
+      "confirmed": 469864,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Prince Edward Island",
+      "country_code": "ca",
+      "latitude": 46.510712,
+      "longitude": -63.41681359999999,
+      "confirmed": 101,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-01-06 00:00:00+00:00"
+    },
+    {
+      "location": "Northwest Territories",
+      "country_code": "ca",
+      "latitude": 64.8255441,
+      "longitude": -124.8457334,
+      "confirmed": 24,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-01-06 00:00:00+00:00"
+    },
+    {
+      "location": "Nunavut",
+      "country_code": "ca",
+      "latitude": 70.2997711,
+      "longitude": -83.10757699999999,
+      "confirmed": 266,
+      "dead": 1,
+      "recovered": null,
+      "updated": "2021-01-06 00:00:00+00:00"
+    },
+    {
+      "location": "North Dakota",
+      "country_code": "us",
+      "latitude": 47.5514926,
+      "longitude": -101.0020119,
+      "confirmed": 109780,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Ohio",
+      "country_code": "us",
+      "latitude": 40.4172871,
+      "longitude": -82.90712300000001,
+      "confirmed": 1099580,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Maine",
+      "country_code": "us",
+      "latitude": 45.253783,
+      "longitude": -69.4454689,
+      "confirmed": 67301,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Auvergne-Rhône-Alpes",
+      "country_code": "fr",
+      "latitude": 45.4471431,
+      "longitude": 4.385250699999999,
+      "confirmed": 51860,
+      "dead": 9554,
+      "recovered": 39266,
+      "updated": "2021-03-18 15:52:34.185228+00:00"
+    },
+    {
+      "location": "Pays de la Loire",
+      "country_code": "fr",
+      "latitude": 47.7632836,
+      "longitude": -0.3299687,
+      "confirmed": 12251,
+      "dead": 2147,
+      "recovered": 9260,
+      "updated": "2021-03-18 15:52:34.186414+00:00"
+    },
+    {
+      "location": "Bourgogne-Franche-Comté",
+      "country_code": "fr",
+      "latitude": 47.2805127,
+      "longitude": 4.9994372,
+      "confirmed": 20192,
+      "dead": 3960,
+      "recovered": 15048,
+      "updated": "2021-03-18 15:52:34.187238+00:00"
+    },
+    {
+      "location": "Normandie",
+      "country_code": "fr",
+      "latitude": 48.87987039999999,
+      "longitude": 0.1712529,
+      "confirmed": 13125,
+      "dead": 2435,
+      "recovered": 9443,
+      "updated": "2021-03-18 15:52:34.188510+00:00"
+    },
+    {
+      "location": "Puerto Rico",
+      "country_code": "us",
+      "latitude": 18.220833,
+      "longitude": -66.590149,
+      "confirmed": 101327,
+      "dead": 2059,
+      "recovered": 0,
+      "updated": "2021-03-06 05:50:30.438264+00:00"
+    },
+    {
+      "location": "Maryland",
+      "country_code": "us",
+      "latitude": 39.0457549,
+      "longitude": -76.64127119999999,
+      "confirmed": 458878,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Massachusetts",
+      "country_code": "us",
+      "latitude": 42.4072107,
+      "longitude": -71.3824374,
+      "confirmed": 660651,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Manitoba",
+      "country_code": "ca",
+      "latitude": 53.7608608,
+      "longitude": -98.8138762,
+      "confirmed": 25541,
+      "dead": 705,
+      "recovered": null,
+      "updated": "2021-01-06 00:00:00+00:00"
+    },
+    {
+      "location": "Quebec",
+      "country_code": "ca",
+      "latitude": 46.8138783,
+      "longitude": -71.2079809,
+      "confirmed": 217999,
+      "dead": 8488,
+      "recovered": null,
+      "updated": "2021-01-06 00:00:00+00:00"
+    },
+    {
+      "location": "Newfoundland and Labrador",
+      "country_code": "ca",
+      "latitude": 53.1355091,
+      "longitude": -57.6604364,
+      "confirmed": 392,
+      "dead": 4,
+      "recovered": null,
+      "updated": "2021-01-06 00:00:00+00:00"
+    },
+    {
+      "location": "Yukon",
+      "country_code": "ca",
+      "latitude": 64.2823274,
+      "longitude": -135,
+      "confirmed": 65,
+      "dead": 1,
+      "recovered": null,
+      "updated": "2021-01-06 00:00:00+00:00"
+    },
+    {
+      "location": "Rhode Island",
+      "country_code": "us",
+      "latitude": 41.5800945,
+      "longitude": -71.4774291,
+      "confirmed": 151580,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Baden-Württemberg",
+      "country_code": "de",
+      "latitude": 48.6616037,
+      "longitude": 9.3501336,
+      "confirmed": 478496,
+      "dead": 9703,
+      "recovered": null,
+      "updated": "2021-05-17 06:36:57.860830+00:00"
+    },
+    {
+      "location": "Bayern",
+      "country_code": "de",
+      "latitude": 48.7904472,
+      "longitude": 11.4978895,
+      "confirmed": 626403,
+      "dead": 14596,
+      "recovered": null,
+      "updated": "2021-05-17 06:36:57.872545+00:00"
+    },
+    {
+      "location": "South Carolina",
+      "country_code": "us",
+      "latitude": 33.836081,
+      "longitude": -81.1637245,
+      "confirmed": 591862,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "South Dakota",
+      "country_code": "us",
+      "latitude": 43.9695148,
+      "longitude": -99.9018131,
+      "confirmed": 124071,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Tennessee",
+      "country_code": "us",
+      "latitude": 35.5174913,
+      "longitude": -86.5804473,
+      "confirmed": 861706,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Brandenburg",
+      "country_code": "de",
+      "latitude": 52.4125287,
+      "longitude": 12.5316444,
+      "confirmed": 106565,
+      "dead": 3673,
+      "recovered": null,
+      "updated": "2021-05-17 06:36:57.895433+00:00"
+    },
+    {
+      "location": "Bremen",
+      "country_code": "de",
+      "latitude": 53.07929619999999,
+      "longitude": 8.8016936,
+      "confirmed": 26573,
+      "dead": 468,
+      "recovered": null,
+      "updated": "2021-05-17 06:36:57.907297+00:00"
+    },
+    {
+      "location": "Hamburg",
+      "country_code": "de",
+      "latitude": 53.5510846,
+      "longitude": 9.9936819,
+      "confirmed": 74991,
+      "dead": 1533,
+      "recovered": null,
+      "updated": "2021-05-17 06:36:57.919136+00:00"
+    },
+    {
+      "location": "Mecklenburg-Vorpommern",
+      "country_code": "de",
+      "latitude": 53.6126505,
+      "longitude": 12.4295953,
+      "confirmed": 42961,
+      "dead": 1079,
+      "recovered": null,
+      "updated": "2021-05-17 06:36:57.944056+00:00"
+    },
+    {
+      "location": "Rheinland-Pfalz",
+      "country_code": "de",
+      "latitude": 50.118346,
+      "longitude": 7.3089527,
+      "confirmed": 149106,
+      "dead": 3646,
+      "recovered": null,
+      "updated": "2021-05-17 06:36:57.979665+00:00"
+    },
+    {
+      "location": "Sachsen",
+      "country_code": "de",
+      "latitude": 51.1045407,
+      "longitude": 13.2017384,
+      "confirmed": 278217,
+      "dead": 9380,
+      "recovered": null,
+      "updated": "2021-05-17 06:36:58.010147+00:00"
+    },
+    {
+      "location": "Texas",
+      "country_code": "us",
+      "latitude": 31.9685988,
+      "longitude": -99.9018131,
+      "confirmed": 2938929,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Utah",
+      "country_code": "us",
+      "latitude": 39.3209801,
+      "longitude": -111.0937311,
+      "confirmed": 405078,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Vermont",
+      "country_code": "us",
+      "latitude": 44.5588028,
+      "longitude": -72.57784149999999,
+      "confirmed": 24162,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Virginia",
+      "country_code": "us",
+      "latitude": 37.4315734,
+      "longitude": -78.6568942,
+      "confirmed": 674082,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Washington",
+      "country_code": "us",
+      "latitude": 47.7510741,
+      "longitude": -120.7401385,
+      "confirmed": 432170,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "West Virginia",
+      "country_code": "us",
+      "latitude": 38.5976262,
+      "longitude": -80.4549026,
+      "confirmed": 160777,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Wisconsin",
+      "country_code": "us",
+      "latitude": 43.7844397,
+      "longitude": -88.7878678,
+      "confirmed": 673388,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Wyoming",
+      "country_code": "us",
+      "latitude": 43.0759678,
+      "longitude": -107.2902839,
+      "confirmed": 59961,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "British Columbia",
+      "country_code": "ca",
+      "latitude": 53.7266683,
+      "longitude": -127.6476205,
+      "confirmed": 55254,
+      "dead": 962,
+      "recovered": null,
+      "updated": "2021-01-06 00:00:00+00:00"
+    },
+    {
+      "location": "Alberta",
+      "country_code": "ca",
+      "latitude": 53.9332706,
+      "longitude": -116.5765035,
+      "confirmed": 107501,
+      "dead": 1193,
+      "recovered": null,
+      "updated": "2021-01-06 00:00:00+00:00"
+    },
+    {
+      "location": "Saskatchewan",
+      "country_code": "ca",
+      "latitude": 52.9399159,
+      "longitude": -106.4508639,
+      "confirmed": 16804,
+      "dead": 174,
+      "recovered": null,
+      "updated": "2021-01-06 00:00:00+00:00"
+    },
+    {
+      "location": "Berlin",
+      "country_code": "de",
+      "latitude": 52.52000659999999,
+      "longitude": 13.404954,
+      "confirmed": 175283,
+      "dead": 3399,
+      "recovered": null,
+      "updated": "2021-05-17 06:36:57.883821+00:00"
+    },
+    {
+      "location": "Hessen",
+      "country_code": "de",
+      "latitude": 50.6520515,
+      "longitude": 9.162437599999999,
+      "confirmed": 279342,
+      "dead": 7135,
+      "recovered": null,
+      "updated": "2021-05-17 06:36:57.931885+00:00"
+    },
+    {
+      "location": "Niedersachsen",
+      "country_code": "de",
+      "latitude": 52.6367036,
+      "longitude": 9.8450766,
+      "confirmed": 252337,
+      "dead": 5474,
+      "recovered": null,
+      "updated": "2021-05-17 06:36:57.955704+00:00"
+    },
+    {
+      "location": "Nordrhein-Westfalen",
+      "country_code": "de",
+      "latitude": 51.43323669999999,
+      "longitude": 7.661593799999999,
+      "confirmed": 786304,
+      "dead": 16252,
+      "recovered": null,
+      "updated": "2021-05-17 06:36:57.967422+00:00"
+    },
+    {
+      "location": "Saarland",
+      "country_code": "de",
+      "latitude": 49.3964234,
+      "longitude": 7.0229607,
+      "confirmed": 39642,
+      "dead": 978,
+      "recovered": null,
+      "updated": "2021-05-17 06:36:57.991611+00:00"
+    },
+    {
+      "location": "Sachsen-Anhalt",
+      "country_code": "de",
+      "latitude": 51.9502649,
+      "longitude": 11.6922734,
+      "confirmed": 96537,
+      "dead": 3221,
+      "recovered": null,
+      "updated": "2021-05-17 06:36:58.034628+00:00"
+    },
+    {
+      "location": "Schleswig-Holstein",
+      "country_code": "de",
+      "latitude": 54.21936720000001,
+      "longitude": 9.696116700000001,
+      "confirmed": 61674,
+      "dead": 1565,
+      "recovered": null,
+      "updated": "2021-05-17 06:36:58.053161+00:00"
+    },
+    {
+      "location": "Thüringen",
+      "country_code": "de",
+      "latitude": 51.0109892,
+      "longitude": 10.845346,
+      "confirmed": 124415,
+      "dead": 4058,
+      "recovered": null,
+      "updated": "2021-05-17 06:36:58.067149+00:00"
+    },
+    {
+      "location": "Alaska",
+      "country_code": "us",
+      "latitude": 64.2008413,
+      "longitude": -149.4936733,
+      "confirmed": 67317,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "California",
+      "country_code": "us",
+      "latitude": 36.778261,
+      "longitude": -119.4179324,
+      "confirmed": 3675817,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Delaware",
+      "country_code": "us",
+      "latitude": 38.9108325,
+      "longitude": -75.52766989999999,
+      "confirmed": 108532,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "District of Columbia",
+      "country_code": "us",
+      "latitude": 38.9071923,
+      "longitude": -77.0368707,
+      "confirmed": 48822,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Florida",
+      "country_code": "us",
+      "latitude": 27.6648274,
+      "longitude": -81.5157535,
+      "confirmed": 2316142,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Hawaii",
+      "country_code": "us",
+      "latitude": 19.8967662,
+      "longitude": -155.5827818,
+      "confirmed": 34312,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Idaho",
+      "country_code": "us",
+      "latitude": 44.0682019,
+      "longitude": -114.7420408,
+      "confirmed": 191738,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Illinois",
+      "country_code": "us",
+      "latitude": 40.6331249,
+      "longitude": -89.3985283,
+      "confirmed": 1378388,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Iowa",
+      "country_code": "us",
+      "latitude": 41.8780025,
+      "longitude": -93.097702,
+      "confirmed": 371001,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Michigan",
+      "country_code": "us",
+      "latitude": 44.3148443,
+      "longitude": -85.60236429999999,
+      "confirmed": 990002,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Minnesota",
+      "country_code": "us",
+      "latitude": 46.729553,
+      "longitude": -94.6858998,
+      "confirmed": 599909,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Mississippi",
+      "country_code": "us",
+      "latitude": 32.3546679,
+      "longitude": -89.3985283,
+      "confirmed": 317065,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Missouri",
+      "country_code": "us",
+      "latitude": 37.9642529,
+      "longitude": -91.8318334,
+      "confirmed": 597367,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Montana",
+      "country_code": "us",
+      "latitude": 46.8796822,
+      "longitude": -110.3625658,
+      "confirmed": 111454,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    },
+    {
+      "location": "Nebraska",
+      "country_code": "us",
+      "latitude": 41.4925374,
+      "longitude": -99.9018131,
+      "confirmed": 221235,
+      "dead": 0,
+      "recovered": null,
+      "updated": "2021-05-28 17:00:09.546087+00:00"
+    }
+  ]
+}
